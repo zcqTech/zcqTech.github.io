@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zfex.cc/"/>
-  <updated>2017-12-23T09:09:33.577Z</updated>
+  <updated>2017-12-19T07:05:45.998Z</updated>
   <id>http://zfex.cc/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>测试</title>
-    <link href="http://zfex.cc/2017/12/23/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://zfex.cc/2017/12/23/测试/</id>
-    <published>2017-12-23T09:08:50.000Z</published>
-    <updated>2017-12-23T09:09:33.577Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="测试标题"><a href="#测试标题" class="headerlink" title="测试标题"></a>测试标题</h4><p>生成内容<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">function test() &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h4 id=&quot;测试标题&quot;&gt;&lt;a href=&quot;#测试标题&quot; class=&quot;headerlink&quot; title=&quot;测试标题&quot;&gt;&lt;/a&gt;测试标题&lt;/h4&gt;&lt;p&gt;生成内容&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
